@@ -1,8 +1,8 @@
 ### Identitas Pemilik Tugas:
 
-- **Nama**: Eko Muchamad Haryono
-- **NIM**: 0110223079
-- **Kelas**: TI-02
+- **Nama**: Hafiz azzaidan
+- **NIM**: 0110224011
+- **Kelas**: TI-007
 - **Semester**: 2
 - **Mata kuliah**: Pemrograman Web 2
 - **Nama Dosen**: Dr. Sirojul Munir, S.Si., M.Kom
